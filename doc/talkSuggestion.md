@@ -42,6 +42,8 @@ Focus on:
 # General on Data structures 
 Presenter: Morteza
 
+## Memory management
+
     
 
 
