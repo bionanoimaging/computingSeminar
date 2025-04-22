@@ -11,6 +11,7 @@ Each Tuesday  from 10 till 12 in the room HG047 (from 8th of April till 11th of 
 # Notes
 - [2025-04-08](/doc/2025-04-08.md)
 - [2025-04-15](/doc/2025-04-15.md)
+- [2025-04-22](/doc/2025-04-22.md)
 
 
 # Syllabus
