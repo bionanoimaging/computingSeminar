@@ -8,6 +8,9 @@ If you want to collaborate on this site send us your git name. The pages are wri
 # Schedule
 Each Tuesday  from 10 till 12 in the room HG047 (from 8th of April till 11th of July). 
 
+Exceptions: 6th of May.
+
+
 # Notes
 Notes from each session are found in folder [/doc](/doc)
 
